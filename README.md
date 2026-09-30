@@ -1,5 +1,5 @@
 # SODR
-#Structure-Aware Multi-Order Differential Modeling for Hyperspectral Image Fusion
+# Structure-Aware Multi-Order Differential Modeling for Hyperspectral Image Fusion
 ### Code for the paper ["Structure-Aware Multi-Order Differential Modeling for Hyperspectral Image Fusion"]
 
 ### To facilitate reproducibility, the implementation code will be made publicly available upon the acceptance of this paper.
